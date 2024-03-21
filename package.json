@@ -1,0 +1,15 @@
+{
+  "name": "mq-plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rhea": "^3.0.2",
+    "stompit": "^1.0.0"
+  }
+}
